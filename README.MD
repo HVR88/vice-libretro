@@ -1,3 +1,6 @@
+The fork's repo is private at the moment. Request access or wait until it's made public again. Windows binaries of the cores are available as Release 1.0 in the base HVR88/vice-libretro repo for now:
+* https://github.com/HVR88/vice-libretro/releases/tag/v1.0.0
+
 # VICE Libretro - Border Cropping (BC) Edition - Pixelpiper 2020
 
 This project fork adds options to fit/fill any monitor of any aspect ratio, size or resolution, with perfectly scaled, non-distorted emulator screens at each platform’s correct aspect ratio - the resulting output should closely match the proportions/dimensions originally seen on a CRT/TV.
@@ -51,6 +54,7 @@ The new options have been adopted by the emulation community and a large collect
 *”now 100% of the cropping is handled in the core itself, [RetroArch] video settings are untouched. This is a godsend because now it should “just work” for everyone. Equally important is that now that I can adjust these crops by single pixels, they’re more exact than the previous pre-defined zoom levels.”*
 
 *”I’ll be honest, I wish every core had this option. I would use it. At the very least Beetle PSX and Beetle Saturn could really use it.Thank you for doing this! It resolves probably the single biggest issue with this project, so that’s a major boon.”*
+
 
 ***
 
