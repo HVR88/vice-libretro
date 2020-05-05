@@ -1,6 +1,5 @@
 The downstream BC fork's repo is private at the moment. Request access or wait until it's made public again. Windows binaries of the cores are available as Release 1.0 in the base HVR88/vice-libretro repo for now:
-* https://github.com/HVR88/vice-libretro/releases/tag/v1.0.0
-
+* https://github.com/HVR88/vice-libretro/releases/
 # VICE Libretro - Border Cropping (BC) Edition - Pixelpiper 2020
 
 This project fork adds options to fit/fill any monitor of any aspect ratio, size or resolution, with perfectly scaled, non-distorted emulator screens at each platform’s correct aspect ratio - the resulting output will closely match the proportions/dimensions originally seen on a CRT/TV.
